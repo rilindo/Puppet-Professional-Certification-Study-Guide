@@ -1,7 +1,10 @@
-# PPT-203-Certification
-Online resources for Puppet Professional 2015 Certification
+# PPT-203-Certification Resources
+
+Online resources that will help you prepare for taking the Puppet Professional 2015 Certification exam. This is not likely a complete list - please make a pull request if there something that should be added here.
 
 ## Exam Objectives
+
+These are the exam objectives you review and understand in order to pass the test. The objectives are current as of April 13, 2015.
 
 ### Language
 
