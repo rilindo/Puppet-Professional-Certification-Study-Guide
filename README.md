@@ -5,7 +5,7 @@ Online resources for Puppet Professional 2015 Certification
 
 ### Language
 
-### Identify Style Guide recommendations
+#### Identify Style Guide recommendations
 * [The Puppet Language Style Guide](https://docs.puppetlabs.com/guides/style_guide.html)
 ### Describe language features
 * [Language: Basics](https://docs.puppetlabs.com/puppet/latest/reference/lang_summary.html)
