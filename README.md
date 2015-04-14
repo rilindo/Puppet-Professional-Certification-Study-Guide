@@ -8,38 +8,70 @@ Online resources for Puppet Professional 2015 Certification
 #### Identify Style Guide recommendations
 * [The Puppet Language Style Guide](https://docs.puppetlabs.com/guides/style_guide.html)
 
-##### Describe language features
+#### Describe language features
 * [Language: Basics](https://docs.puppetlabs.com/puppet/latest/reference/lang_summary.html)
 
-##### Identify the core resource types
+#### Identify the core resource types
 * [Type Reference](https://docs.puppetlabs.com/references/latest/type.html)
 
-##### Demonstrate knowledge of classes and defines
+#### Demonstrate knowledge of classes and defines
 * [Language: Classes](https://docs.puppetlabs.com/puppet/latest/reference/lang_classes.html)
 * [learning Puppet - Defined Types](https://docs.puppetlabs.com/learning/definedtypes.html)
 * [Language: Defined Resource Types](https://docs.puppetlabs.com/puppet/3.7/reference/lang_defined_types.html)
 
 ### Modules
 
-Describe how to use modules from the Forge
-Demonstrate knowledge of module structure
-Identify module authoring best practices
+#### Describe how to use modules from the Forge
+* [Installing Modules](https://docs.puppetlabs.com/puppet/latest/reference/modules_installing.html)
 
-Using Puppet
-Describe environments in Puppet
-Describe the lifecycle of a Puppet run
-Describe Puppet ecosystem component usage
-Describe how to configure a Puppet master
+#### Demonstrate knowledge of module structure
+* [Module Fundamentals](https://docs.puppetlabs.com/puppet/latest/reference/modules_fundamentals.html)
 
-Puppet Internals
-Describe the purpose of types and providers
-Describe Puppet’s use of SSL certificates
+#### Identify module authoring best practices
+* [Beginner's Guide to Modules](https://docs.puppetlabs.com/guides/module_guides/bgtm.html)
+* [Best Practices for Building Puppet Modules](https://puppetlabs.com/blog/best-practices-building-puppet-modules)
+ 
+### Using Puppet
 
-Classification
-Describe classification
+#### Describe environments in Puppet
+* [About Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments.html)
 
-Console
-Describe Node Manager
-Describe RBAC
-Demonstrate knowledge of how to troubleshoot PE Console
-Describe reporting capabilities in PE Console
+#### Describe the lifecycle of a Puppet run
+* [Learning Puppet — Basic Agent/Master Puppet](https://docs.puppetlabs.com/learning/agent_master_basic.html)
+
+#### Describe Puppet ecosystem component usage
+* [A New Era of Application Services at Puppet Labs](https://puppetlabs.com/blog/new-era-application-services-puppet-labs)
+
+#### Describe how to configure a Puppet master
+* [Configuration: How Puppet is Configured](https://docs.puppetlabs.com/puppet/latest/reference/config_about_settings.html)
+
+### Puppet Internals
+
+#### Describe the purpose of types and providers
+* [Custom Types](https://docs.puppetlabs.com/guides/custom_types.html)
+* [Provider Development](https://docs.puppetlabs.com/guides/provider_development.html)
+
+#### Describe Puppet’s use of SSL certificates
+* [Certificates and Security](http://projects.puppetlabs.com/projects/1/wiki/certificates_and_security)
+
+### Classification
+
+#### Describe classification
+* [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
+* [Grouping and Classifying Nodes](https://docs.puppetlabs.com/pe/latest/console_classes_groups.html)
+
+#### Console
+* [Accessing the Console](https://docs.puppetlabs.com/pe/latest/console_accessing.html)
+
+#### Describe Node Manager
+* [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
+* [Grouping and Classifying Nodes](https://docs.puppetlabs.com/pe/latest/console_classes_groups.html)
+
+#### Describe RBAC
+* [Role-based Access Control](https://docs.puppetlabs.com/pe/latest/rbac_intro.html)
+
+#### Demonstrate knowledge of how to troubleshoot PE Console
+* [Finding Common Problems](https://docs.puppetlabs.com/pe/latest/trouble_console-db.html)
+
+#### Describe reporting capabilities in PE Console
+* [Viewing Reports and Inventory Data](https://docs.puppetlabs.com/pe/latest/console_reports.html)
