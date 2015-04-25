@@ -58,6 +58,7 @@ These are the exam objectives you review and understand in order to pass the tes
 #### Describe Puppet’s use of SSL certificates
 * [Certificates and Security](http://projects.puppetlabs.com/projects/1/wiki/certificates_and_security)
 * [Puppet Server: External CA Configuration](https://docs.puppetlabs.com/puppetserver/1.0/external_ca_configuration.html)
+* [SSL Configuration: External CA Support](https://docs.puppetlabs.com/puppet/latest/reference/config_ssl_external_ca.html)
 
 ### Classification
 
