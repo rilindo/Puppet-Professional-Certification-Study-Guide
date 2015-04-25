@@ -47,6 +47,7 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Describe how to configure a Puppet master
 * [Configuration: How Puppet is Configured](https://docs.puppetlabs.com/puppet/latest/reference/config_about_settings.html)
+* [Puppet Server: Configuration](https://docs.puppetlabs.com/puppetserver/1.0/configuration.html)
 
 ### Puppet Internals
 
