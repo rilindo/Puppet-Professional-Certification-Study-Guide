@@ -45,6 +45,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Assigning Nodes to Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_assigning.html)
 * [Environments: Suggestions for Use](https://docs.puppetlabs.com/puppet/latest/reference/environments_suggestions.html)
 * [Git Workflow and Puppet Environments](https://puppetlabs.com/blog/git-workflow-and-puppet-environments?_ga=1.219608607.74181882.1427164782)
+* [Environments: Limitations of Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_limitations.html)
 
 #### Describe the lifecycle of a Puppet run
 * [Learning Puppet — Basic Agent/Master Puppet](https://docs.puppetlabs.com/learning/agent_master_basic.html)
