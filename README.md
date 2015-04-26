@@ -90,3 +90,8 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Describe reporting capabilities in PE Console
 * [Viewing Reports and Inventory Data](https://docs.puppetlabs.com/pe/latest/console_reports.html)
+
+# Puppet Courses
+
+* [Learning Puppet DevOps Deployment (Puppet Professional Cert)](https://linuxacademy.com/devops/training/course/name/learning-puppet)
+* [Puppet Fundamentals for Systems Administrators](http://www.pluralsight.com/courses/puppet-system-administrators-fundamentals)
