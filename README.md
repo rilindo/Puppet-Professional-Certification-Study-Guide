@@ -43,6 +43,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Enabling Directory Environments in Puppet Enterprise](https://docs.puppetlabs.com/puppet/3.6/reference/environments_configuring.html#enabling-directory-environments-in-puppet-enterprise)
 * [Config-file Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_classic.html)
 * [Assigning Nodes to Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_assigning.html)
+* [Environments: Suggestions for Use](https://docs.puppetlabs.com/puppet/latest/reference/environments_suggestions.html)
 
 #### Describe the lifecycle of a Puppet run
 * [Learning Puppet — Basic Agent/Master Puppet](https://docs.puppetlabs.com/learning/agent_master_basic.html)
