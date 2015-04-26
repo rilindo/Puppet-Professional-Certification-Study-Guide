@@ -1,4 +1,4 @@
-# PPT-203-Certification Resources
+# Puppet Professional Certification 2015 Resources
 
 Online resources that will help you prepare for taking the Puppet Professional 2015 Certification exam. This is not likely a complete list - please make a pull request if there something that should be added here.
 
