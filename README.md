@@ -13,6 +13,17 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Describe language features
 * [Language: Basics](https://docs.puppetlabs.com/puppet/latest/reference/lang_summary.html)
+* [Language: Reserved Words and Acceptable Names](https://docs.puppetlabs.com/puppet/3.7/reference/lang_reserved.html)
+* [Language: Resources](https://docs.puppetlabs.com/puppet/3.7/reference/lang_resources.html)
+* [Language: Relationships and Ordering](https://docs.puppetlabs.com/puppet/3.7/reference/lang_relationships.html)
+* [Langauge: Resource Defaults](https://docs.puppetlabs.com/puppet/3.7/reference/lang_defaults.html)
+* [Language: Variables](https://docs.puppetlabs.com/puppet/3.7/reference/lang_variables.html)
+* [Language: Tags](https://docs.puppetlabs.com/puppet/latest/reference/lang_tags.html)
+* [Language: Facts and Built-in Variables](https://docs.puppetlabs.com/puppet/3.7/reference/lang_facts_and_builtin_vars.html)
+* [Language: Scope](https://docs.puppetlabs.com/puppet/3.7/reference/lang_scope.html)
+* [Language: Conditional Statements](https://docs.puppetlabs.com/puppet/3.7/reference/lang_conditional.html)
+* [Language: Expressions](https://docs.puppetlabs.com/puppet/3.7/reference/lang_expressions.html)
+* [Language: Functions](https://docs.puppetlabs.com/puppet/3.7/reference/lang_functions.html)
 
 #### Identify the core resource types
 * [Type Reference](https://docs.puppetlabs.com/references/latest/type.html)
