@@ -64,6 +64,8 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Describe Puppet ecosystem component usage
 * [A New Era of Application Services at Puppet Labs](https://puppetlabs.com/blog/new-era-application-services-puppet-labs)
+* [Subsystems: Agent/Master HTTPS Communications](https://docs.puppetlabs.com/puppet/3.7/reference/subsystem_agent_master_comm.html)
+* [Subsystems: Catalog Compilation](https://docs.puppetlabs.com/puppet/3.7/reference/subsystem_catalog_compilation.html)
 
 #### Describe how to configure a Puppet master
 * [Configuration: How Puppet is Configured](https://docs.puppetlabs.com/puppet/latest/reference/config_about_settings.html)
@@ -79,6 +81,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Certificates and Security](http://projects.puppetlabs.com/projects/1/wiki/certificates_and_security)
 * [Puppet Server: External CA Configuration](https://docs.puppetlabs.com/puppetserver/1.0/external_ca_configuration.html)
 * [SSL Configuration: External CA Support](https://docs.puppetlabs.com/puppet/latest/reference/config_ssl_external_ca.html)
+* [SSL Configuration: Autosigning Certificate Requests](https://docs.puppetlabs.com/puppet/3.7/reference/ssl_autosign.html)
 
 ### Classification
 
