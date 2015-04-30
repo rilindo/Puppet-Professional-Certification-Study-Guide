@@ -26,10 +26,10 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Language: Functions](https://docs.puppetlabs.com/puppet/3.7/reference/lang_functions.html)
 
 #### Identify the core resource types
-* [Type Reference](https://docs.puppetlabs.com/references/latest/type.html)
+* [Type Reference](https://docs.puppetlabs.com/references/3.7.latest/type.html)
 
 #### Demonstrate knowledge of classes and defines
-* [Language: Classes](https://docs.puppetlabs.com/puppet/latest/reference/lang_classes.html)
+* [Language: Classes](https://docs.puppetlabs.com/puppet/3.7/reference/lang_classes.html)
 * [learning Puppet - Defined Types](https://docs.puppetlabs.com/learning/definedtypes.html)
 * [Language: Defined Resource Types](https://docs.puppetlabs.com/puppet/3.7/reference/lang_defined_types.html)
 
