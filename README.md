@@ -66,7 +66,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [A New Era of Application Services at Puppet Labs](https://puppetlabs.com/blog/new-era-application-services-puppet-labs)
 * [Subsystems: Agent/Master HTTPS Communications](https://docs.puppetlabs.com/puppet/3.7/reference/subsystem_agent_master_comm.html)
 * [Subsystems: Catalog Compilation](https://docs.puppetlabs.com/puppet/3.7/reference/subsystem_catalog_compilation.html)
-* [Puppet 2.2 Overview](http://docs.puppetlabs.com/puppetdb/2.2/)
+* [PuppetDB 2.2 Overview](http://docs.puppetlabs.com/puppetdb/2.2/)
 
 #### Describe how to configure a Puppet master
 * [Configuration: How Puppet is Configured](https://docs.puppetlabs.com/puppet/latest/reference/config_about_settings.html)
