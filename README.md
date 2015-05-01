@@ -99,7 +99,11 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Making Changes in the Node Classifier](https://docs.puppetlabs.com/pe/3.7/console_classes_groups_making_changes.html)
 
 #### Describe RBAC
-* [Role-based Access Control](https://docs.puppetlabs.com/pe/latest/rbac_intro.html)
+* [Role-based Access Control](https://docs.puppetlabs.com/pe/3.7/rbac_intro.html)
+* [Connecting PE to an External Directory Service](https://docs.puppetlabs.com/pe/3.7/rbac_ldap.html)
+* [RBAC Permissions](https://docs.puppetlabs.com/pe/3.7/rbac_permissions.html)
+* [Creating and Managing Users and User Roles](https://docs.puppetlabs.com/pe/3.7/rbac_user_roles.html)
+
 
 #### Demonstrate knowledge of how to troubleshoot PE Console
 * [Finding Common Problems](https://docs.puppetlabs.com/pe/latest/trouble_console-db.html)
