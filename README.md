@@ -93,6 +93,10 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Console
 * [Accessing the Console](https://docs.puppetlabs.com/pe/latest/console_accessing.html)
+* [Using Event Inspector](https://docs.puppetlabs.com/pe/3.7/console_event-inspector.html)
+* [Navigatoring Live Management](https://docs.puppetlabs.com/pe/3.7/console_navigating_live_mgmt.html)
+* [Viewing Reports and Inventory Data](https://docs.puppetlabs.com/pe/3.7/console_reports.html)
+* [Inventory Search](https://docs.puppetlabs.com/pe/3.7/console_inventory_search.html)
 
 #### Describe Node Manager
 * [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
