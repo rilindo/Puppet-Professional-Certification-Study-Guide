@@ -107,6 +107,7 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Demonstrate knowledge of how to troubleshoot PE Console
 * [Finding Common Problems](https://docs.puppetlabs.com/pe/latest/trouble_console-db.html)
+* [The Log Blog: An Update on Debugging Puppet Enterprise](https://puppetlabs.com/blog/update-on-debugging-puppet-enterprise)
 
 #### Describe reporting capabilities in PE Console
 * [Viewing Reports and Inventory Data](https://docs.puppetlabs.com/pe/latest/console_reports.html)
