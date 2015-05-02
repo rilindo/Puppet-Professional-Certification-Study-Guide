@@ -132,6 +132,7 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Describe the usage of MCollective
 * [Mcollective Collective](http://docs.puppetlabs.com/mcollective/)
+* [Using Mcollective Command Line Applications](http://docs.puppetlabs.com/mcollective/reference/basic/basic_cli_usage.html)
 
 #### Demonstrate knowledge of Facter
 * [Facter 2.2](http://docs.puppetlabs.com/facter/2.2/)
