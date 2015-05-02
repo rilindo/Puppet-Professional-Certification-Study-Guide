@@ -131,8 +131,15 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Writing New Backends](https://docs.puppetlabs.com/hiera/1/custom_backends.html)
 
 #### Describe the usage of MCollective
+* [Mcollective Collective](http://docs.puppetlabs.com/mcollective/)
 
 #### Demonstrate knowledge of Facter
+* [Facter 2.2](http://docs.puppetlabs.com/facter/2.2/)
+* [Core Facts](http://docs.puppetlabs.com/facter/2.2/core_facts.html)
+* [Custom Fact Overview/Reference](http://docs.puppetlabs.com/facter/2.2/fact_overview.html)
+* [Custom Fact Walkthrough](http://docs.puppetlabs.com/facter/2.2/custom_facts.html)
+* [External Facts](http://docs.puppetlabs.com/facter/2.2/custom_facts.html#external-facts)
+
 ## Puppet Courses
 
 Here are courses you can enroll to get up to speed with Puppet.
