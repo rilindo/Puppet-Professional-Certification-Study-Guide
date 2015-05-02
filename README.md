@@ -112,6 +112,27 @@ These are the exam objectives you review and understand in order to pass the tes
 #### Describe reporting capabilities in PE Console
 * [Viewing Reports and Inventory Data](https://docs.puppetlabs.com/pe/latest/console_reports.html)
 
+### Ecosystem
+
+#### Describe the purpose of PuppetDB
+* [PuppetDB Overview](http://docs.puppetlabs.com/puppetdb/2.2/)
+
+#### Demonstrate knowledge of Hiera
+* [Hiera 1: Overview](http://docs.puppetlabs.com/hiera/1/)
+* [Hiera 1: installation](http://docs.puppetlabs.com/hiera/1/installing.html)
+* [Configuration and hiera.yaml](https://docs.puppetlabs.com/hiera/1/configuring.html)
+* [Hierachies](https://docs.puppetlabs.com/hiera/1/hierarchy.html)
+* [Lookup Types](https://docs.puppetlabs.com/hiera/1/lookup_types.html)
+* [Writing Data Sources](https://docs.puppetlabs.com/hiera/1/data_sources.html)
+* [Interpolation Tokesn, Variables and Lookup Functions](https://docs.puppetlabs.com/hiera/1/variables.html)
+* [Usage with Puppet](https://docs.puppetlabs.com/hiera/1/puppet.html)
+* [Complete Example](https://docs.puppetlabs.com/hiera/1/complete_example.html)
+* [Usage on the Commandline](https://docs.puppetlabs.com/hiera/1/command_line.html)
+* [Writing New Backends](https://docs.puppetlabs.com/hiera/1/custom_backends.html)
+
+#### Describe the usage of MCollective
+
+#### Demonstrate knowledge of Facter
 ## Puppet Courses
 
 Here are courses you can enroll to get up to speed with Puppet.
