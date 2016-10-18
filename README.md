@@ -12,18 +12,23 @@ These are the exam objectives you review and understand in order to pass the tes
 * [The Puppet Language Style Guide](https://docs.puppetlabs.com/guides/style_guide.html)
 
 #### Describe language features
-* [Language: Basics](https://docs.puppetlabs.com/puppet/latest/reference/lang_summary.html)
+* [Language: Basics](https://docs.puppetlabs.com/puppet/4.5/reference/lang_summary.html)
 * [Language: Reserved Words and Acceptable Names](https://docs.puppet.com/puppet/4.5/reference/lang_reserved.html)
 * [Language: Resources](https://docs.puppetlabs.com/puppet/4.5/reference/lang_resources.html)
 * [Language: Relationships and Ordering](https://docs.puppetlabs.com/puppet/4.5/reference/lang_relationships.html)
 * [Langauge: Resource Defaults](https://docs.puppetlabs.com/puppet/4.5/reference/lang_defaults.html)
 * [Language: Variables](https://docs.puppetlabs.com/puppet/4.5/reference/lang_variables.html)
-* [Language: Tags](https://docs.puppetlabs.com/puppet/latest/reference/lang_tags.html)
+* [Language: Tags](https://docs.puppetlabs.com/puppet/4.5/reference/lang_tags.html)
 * [Language: Facts and Built-in Variables](https://docs.puppetlabs.com/puppet/4.5/reference/lang_facts_and_builtin_vars.html)
 * [Language: Scope](https://docs.puppetlabs.com/puppet/4.5/reference/lang_scope.html)
 * [Language: Conditional Statements](https://docs.puppetlabs.com/puppet/4.5/reference/lang_conditional.html)
+* [Language: Iteration and loops](https://docs.puppet.com/puppet/4.5/reference/lang_iteration.html)
+* [Language: Lambdas](https://docs.puppet.com/puppet/4.5/reference/lang_lambdas.html)
+* [Language: Resource collectors](https://docs.puppet.com/puppet/4.5/reference/lang_collectors.html)
+* [Language: Virtual resources](https://docs.puppet.com/puppet/4.5/reference/lang_virtual.html)
 * [Language: Expressions](https://docs.puppetlabs.com/puppet/4.5/reference/lang_expressions.html)
 * [Language: Functions](https://docs.puppetlabs.com/puppet/4.5/reference/lang_functions.html)
+* [ntp-puppet-4-language-update](https://puppet.com/blog/ntp-puppet-4-language-update)
 
 #### Identify the core resource types
 * [Type Reference](https://docs.puppetlabs.com/references/4.5.latest/type.html)
