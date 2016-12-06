@@ -92,7 +92,7 @@ These are the exam objectives you review and understand in order to pass the tes
 ### Classification
 
 #### Describe classification
-* [Getting Started with Classification](https://docs.puppetlabs.com/pe/4.5/console_classes_groups_getting_started.html)
+* [Getting Started with Classification](https://docs.puppetlabs.com/pe/latest/console_classes_groups_getting_started.html)
 * [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
 * [Grouping and Classifying Nodes](https://docs.puppetlabs.com/pe/latest/console_classes_groups.html)
 
