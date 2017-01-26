@@ -35,7 +35,7 @@ These are the exam objectives you review and understand in order to pass the tes
 
 #### Demonstrate knowledge of classes and defines
 * [Language: Classes](https://docs.puppetlabs.com/puppet/4.5/reference/lang_classes.html)
-* [learning Puppet - Defined Types](https://docs.puppetlabs.com/learning/definedtypes.html)
+* [Learning Puppet: Defined Types](https://docs.puppetlabs.com/learning/definedtypes.html)
 * [Language: Defined Resource Types](https://docs.puppetlabs.com/puppet/4.5/reference/lang_defined_types.html)
 
 ### Modules
@@ -122,10 +122,10 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Hiera 1: Overview](http://docs.puppetlabs.com/hiera/1/)
 * [Hiera 1: installation](http://docs.puppetlabs.com/hiera/1/installing.html)
 * [Configuration and hiera.yaml](https://docs.puppetlabs.com/hiera/1/configuring.html)
-* [Hierachies](https://docs.puppetlabs.com/hiera/1/hierarchy.html)
+* [Hierarchies](https://docs.puppetlabs.com/hiera/1/hierarchy.html)
 * [Lookup Types](https://docs.puppetlabs.com/hiera/1/lookup_types.html)
 * [Writing Data Sources](https://docs.puppetlabs.com/hiera/1/data_sources.html)
-* [Interpolation Tokesn, Variables and Lookup Functions](https://docs.puppetlabs.com/hiera/1/variables.html)
+* [Interpolation Tokens, Variables and Lookup Functions](https://docs.puppetlabs.com/hiera/1/variables.html)
 * [Usage with Puppet](https://docs.puppetlabs.com/hiera/1/puppet.html)
 * [Complete Example](https://docs.puppetlabs.com/hiera/1/complete_example.html)
 * [Usage on the Commandline](https://docs.puppetlabs.com/hiera/1/command_line.html)
