@@ -9,142 +9,144 @@ These are the exam objectives you review and understand in order to pass the tes
 ### Language
 
 #### Identify Style Guide recommendations
-* [The Puppet Language Style Guide](https://docs.puppetlabs.com/guides/style_guide.html)
+* [The Puppet Language Style Guide](https://puppet.com/docs/puppet/latest/style_guide.html)
 
 #### Describe language features
-* [Language: Basics](https://docs.puppetlabs.com/puppet/4.5/reference/lang_summary.html)
-* [Language: Reserved Words and Acceptable Names](https://docs.puppet.com/puppet/4.5/reference/lang_reserved.html)
-* [Language: Resources](https://docs.puppetlabs.com/puppet/4.5/reference/lang_resources.html)
-* [Language: Relationships and Ordering](https://docs.puppetlabs.com/puppet/4.5/reference/lang_relationships.html)
-* [Langauge: Resource Defaults](https://docs.puppetlabs.com/puppet/4.5/reference/lang_defaults.html)
-* [Language: Variables](https://docs.puppetlabs.com/puppet/4.5/reference/lang_variables.html)
-* [Language: Tags](https://docs.puppetlabs.com/puppet/4.5/reference/lang_tags.html)
-* [Language: Facts and Built-in Variables](https://docs.puppetlabs.com/puppet/4.5/reference/lang_facts_and_builtin_vars.html)
-* [Language: Scope](https://docs.puppetlabs.com/puppet/4.5/reference/lang_scope.html)
-* [Language: Conditional Statements](https://docs.puppetlabs.com/puppet/4.5/reference/lang_conditional.html)
-* [Language: Iteration and loops](https://docs.puppet.com/puppet/4.5/reference/lang_iteration.html)
-* [Language: Lambdas](https://docs.puppet.com/puppet/4.5/reference/lang_lambdas.html)
-* [Language: Resource collectors](https://docs.puppet.com/puppet/4.5/reference/lang_collectors.html)
-* [Language: Virtual resources](https://docs.puppet.com/puppet/4.5/reference/lang_virtual.html)
-* [Language: Expressions](https://docs.puppetlabs.com/puppet/4.5/reference/lang_expressions.html)
-* [Language: Functions](https://docs.puppetlabs.com/puppet/4.5/reference/lang_functions.html)
+* [Language: Basics](https://puppet.com/docs/puppet/latest/lang_summary.html)
+* [Language: Visual Index](https://puppet.com/docs/puppet/latest/lang_visual_index.html)
+* [Language: Reserved Words and Acceptable Names](https://puppet.com/docs/puppet/latest/lang_reserved.html)
+* [Language: Resources](https://puppet.com/docs/puppet/latest/lang_resources.html)
+* [Language: Relationships and Ordering](https://puppet.com/docs/puppet/latest/lang_relationships.html)
+* [Langauge: Resource Defaults](https://puppet.com/docs/puppet/latest/lang_defaults.html)
+* [Language: Variables](https://puppet.com/docs/puppet/latest/lang_variables.html)
+* [Language: Tags](https://puppet.com/docs/puppet/latest/lang_tags.html)
+* [Language: Facts and Built-in Variables](https://puppet.com/docs/puppet/latest/lang_facts_and_builtin_vars.html)
+* [Language: Scope](https://puppet.com/docs/puppet/latest/lang_scope.html)
+* [Language: Conditional Statements](https://puppet.com/docs/puppet/latest/lang_conditional.html)
+* [Language: Iteration and loops](https://docs.puppet.com/puppet/latest/lang_iteration.html)
+* [Language: Lambdas](https://docs.puppet.com/puppet/latest/lang_lambdas.html)
+* [Language: Resource collectors](https://docs.puppet.com/puppet/latest/lang_collectors.html)
+* [Language: Virtual resources](https://docs.puppet.com/puppet/latest/lang_virtual.html)
+* [Language: Expressions](https://puppet.com/docs/puppet/latest/lang_expressions.html)
+* [Language: Functions](https://puppet.com/docs/puppet/latest/lang_functions.html)
 * [ntp-puppet-4-language-update](https://puppet.com/blog/ntp-puppet-4-language-update)
 
 #### Identify the core resource types
-* [Type Reference](https://docs.puppetlabs.com/references/4.5.latest/type.html)
+* [Type Reference](https://puppet.com/docs/puppet/latest/type.html)
 
 #### Demonstrate knowledge of classes and defines
-* [Language: Classes](https://docs.puppetlabs.com/puppet/4.5/reference/lang_classes.html)
-* [learning Puppet - Defined Types](https://docs.puppetlabs.com/learning/definedtypes.html)
-* [Language: Defined Resource Types](https://docs.puppetlabs.com/puppet/4.5/reference/lang_defined_types.html)
+* [Language: Visual index](https://puppet.com/docs/puppet/latest/lang_visual_index.html)
+* [Language: Puppet Language Style Guide](https://puppet.com/docs/puppet/latest/style_guide.html)
+* [Language: Classes](https://puppet.com/docs/puppet/latest/lang_classes.html)
+* [Language: Defined Resource Types](https://puppet.com/docs/puppet/latest/lang_defined_types.html)
 
 ### Modules
 
 #### Describe how to use modules from the Forge
-* [Installing Modules](https://docs.puppetlabs.com/puppet/latest/reference/modules_installing.html)
+* [Installing Modules](https://puppet.com/docs/puppet/latest/modules_installing.html)
 
 #### Demonstrate knowledge of module structure
-* [Module Fundamentals](https://docs.puppetlabs.com/puppet/latest/reference/modules_fundamentals.html)
-* [Documenting Modules](https://docs.puppetlabs.com/puppet/4.5/reference/modules_documentation.html)
+* [Module Fundamentals](https://puppet.com/docs/puppet/latest/modules_fundamentals.html)
+* [Documenting Modules](https://puppet.com/docs/puppet/latest/modules_documentation.html)
 
 #### Identify module authoring best practices
-* [Beginner's Guide to Modules](https://docs.puppetlabs.com/guides/module_guides/bgtm.html)
+* [Beginner's Guide to Modules](https://puppet.com/docs/guides/module_guides/bgtm.html)
 * [Best Practices for Building Puppet Modules](https://puppetlabs.com/blog/best-practices-building-puppet-modules)
 
 ### Using Puppet
 
 #### Describe environments in Puppet
-* [About Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments.html)
-* [Configuring Directory Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_configuring.html)
-* [Enabling Directory Environments in Puppet Enterprise](https://docs.puppetlabs.com/puppet/4.5/reference/environments_configuring.html#enabling-directory-environments-in-puppet-enterprise)
-* [Config-file Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_classic.html)
-* [Assigning Nodes to Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_assigning.html)
-* [Environments: Suggestions for Use](https://docs.puppetlabs.com/puppet/latest/reference/environments_suggestions.html)
+* [About Environments](https://puppet.com/docs/puppet/latest/environments.html)
+* [Configuring Directory Environments](https://puppet.com/docs/puppet/latest/environments_configuring.html)
+* [Enabling Directory Environments in Puppet Enterprise](https://puppet.com/docs/puppet/latest/environments_configuring.html#enabling-directory-environments-in-puppet-enterprise)
+* [Config-file Environments](https://puppet.com/docs/puppet/latest/environments_classic.html)
+* [Assigning Nodes to Environments](https://puppet.com/docs/puppet/latest/environments_assigning.html)
+* [Environments: Suggestions for Use](https://puppet.com/docs/puppet/latest/environments_suggestions.html)
 * [Git Workflow and Puppet Environments](https://puppetlabs.com/blog/git-workflow-and-puppet-environments?_ga=1.219608607.74181882.1427164782)
-* [Environments: Limitations of Environments](https://docs.puppetlabs.com/puppet/latest/reference/environments_limitations.html)
-* [Environments and Puppet's HTTPS Interface](https://docs.puppetlabs.com/puppet/latest/reference/environments_https.html)
+* [Environments: Limitations of Environments](https://puppet.com/docs/puppet/latest/environments_limitations.html)
+* [Environments and Puppet's HTTPS Interface](https://puppet.com/docs/puppet/latest/environments_https.html)
 
 #### Describe the lifecycle of a Puppet run
-* [Learning Puppet — Basic Agent/Master Puppet](https://docs.puppetlabs.com/learning/agent_master_basic.html)
+* [Overview of Puppet's architecture](https://puppet.com/docs/puppet/5.3/architecture.html)
 
 #### Describe Puppet ecosystem component usage
 * [A New Era of Application Services at Puppet Labs](https://puppetlabs.com/blog/new-era-application-services-puppet-labs)
-* [Subsystems: Agent/Master HTTPS Communications](https://docs.puppetlabs.com/puppet/4.5/reference/subsystem_agent_master_comm.html)
-* [Subsystems: Catalog Compilation](https://docs.puppetlabs.com/puppet/4.5/reference/subsystem_catalog_compilation.html)
-* [PuppetDB 4.1 Overview](http://docs.puppetlabs.com/puppetdb/4.1/)
+* [Subsystems: Agent/Master HTTPS Communications](https://puppet.com/docs/puppet/latest/subsystem_agent_master_comm.html)
+* [Subsystems: Catalog Compilation](https://puppet.com/docs/puppet/latest/subsystem_catalog_compilation.html)
+* [PuppetDB Overview](http://puppet.com/docs/puppetdb/latest/)
 
 #### Describe how to configure a Puppet master
-* [Configuration: How Puppet is Configured](https://docs.puppetlabs.com/puppet/latest/reference/config_about_settings.html)
-* [Puppet Server: Configuration](https://docs.puppetlabs.com/puppetserver/1.0/configuration.html)
+* [Configuration: How Puppet is Configured](https://puppet.com/docs/puppet/latest/config_about_settings.html)
+* [Puppet Server: Configuration](https://puppet.com/docs/puppetserver/latest/configuration.html)
 
 ### Puppet Internals
 
 #### Describe the purpose of types and providers
-* [Custom Types](https://docs.puppetlabs.com/guides/custom_types.html)
-* [Provider Development](https://docs.puppetlabs.com/guides/provider_development.html)
+* [Custom Types](https://puppet.com/docs/guides/custom_types.html)
+* [Provider Development](https://puppet.com/docs/guides/provider_development.html)
 
 #### Describe Puppet’s use of SSL certificates
 * [Certificates and Security](http://projects.puppetlabs.com/projects/1/wiki/certificates_and_security)
-* [Puppet Server: External CA Configuration](https://docs.puppetlabs.com/puppetserver/1.0/external_ca_configuration.html)
-* [SSL Configuration: External CA Support](https://docs.puppetlabs.com/puppet/latest/reference/config_ssl_external_ca.html)
-* [SSL Configuration: Autosigning Certificate Requests](https://docs.puppetlabs.com/puppet/4.5/reference/ssl_autosign.html)
+* [Puppet Server: External CA Configuration](https://puppet.com/docs/puppetserver/1.0/external_ca_configuration.html)
+* [SSL Configuration: External CA Support](https://puppet.com/docs/puppet/latest/config_ssl_external_ca.html)
+* [SSL Configuration: Autosigning Certificate Requests](https://puppet.com/docs/puppet/latest/ssl_autosign.html)
 
 ### Classification
 
 #### Describe classification
-* [Getting Started with Classification](https://docs.puppetlabs.com/pe/4.5/console_classes_groups_getting_started.html)
-* [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
-* [Grouping and Classifying Nodes](https://docs.puppetlabs.com/pe/latest/console_classes_groups.html)
+* [Getting Started with Classification](https://puppet.com/docs/pe/latest/console_classes_groups_getting_started.html)
+* [Puppet: Assigning Configurations to Nodes](https://puppet.com/docs/pe/latest/puppet_assign_configurations.html)
+* [Grouping and Classifying Nodes](https://puppet.com/docs/pe/latest/console_classes_groups.html)
 
 ### Console
 
 #### Describe Node Manager
-* [Puppet: Assigning Configurations to Nodes](https://docs.puppetlabs.com/pe/latest/puppet_assign_configurations.html)
-* [Grouping and Classifying Nodes](https://docs.puppetlabs.com/pe/latest/console_classes_groups.html)
-* [Making Changes in the Node Classifier](https://docs.puppetlabs.com/pe/4.5/console_classes_groups_making_changes.html)
+* [Puppet: Assigning Configurations to Nodes](https://puppet.com/docs/pe/latest/puppet_assign_configurations.html)
+* [Grouping and Classifying Nodes](https://puppet.com/docs/pe/latest/console_classes_groups.html)
+* [Making Changes in the Node Classifier](https://puppet.com/docs/pe/latest/console_classes_groups_making_changes.html)
 
 #### Describe RBAC
-* [Role-based Access Control](https://docs.puppetlabs.com/pe/2016.2/rbac_intro.html)
-* [Connecting PE to an External Directory Service](https://docs.puppetlabs.com/pe/2016.2/rbac_ldap.html)
-* [RBAC Permissions](https://docs.puppetlabs.com/pe/2016.2/rbac_permissions.html)
-* [Creating and Managing Users and User Roles](https://docs.puppetlabs.com/pe/2016.2/rbac_user_roles.html)
+* [Role-based Access Control](https://puppet.com/docs/pe/latest/rbac_intro.html)
+* [Connecting PE to an External Directory Service](https://puppet.com/docs/pe/latest/rbac_ldap.html)
+* [RBAC Permissions](https://puppet.com/docs/pe/latest/rbac_permissions.html)
+* [Creating and Managing Users and User Roles](https://puppet.com/docs/pe/latest/rbac_user_roles.html)
 
 
 #### Describe reporting capabilities in PE Console
-* [Viewing Reports and Inventory Data](https://docs.puppetlabs.com/pe/latest/console_reports.html)
+* [Viewing Reports and Inventory Data](https://puppet.com/docs/pe/latest/console_reports.html)
 
 ### Ecosystem
 
 #### Describe the purpose of PuppetDB
-* [PuppetDB Overview](http://docs.puppetlabs.com/puppetdb/4.1/)
+* [PuppetDB Overview](http://puppet.com/docs/puppetdb/latest/)
 
 #### Demonstrate knowledge of Hiera
-* [Hiera 1: Overview](http://docs.puppetlabs.com/hiera/1/)
-* [Hiera 1: installation](http://docs.puppetlabs.com/hiera/1/installing.html)
-* [Configuration and hiera.yaml](https://docs.puppetlabs.com/hiera/1/configuring.html)
-* [Hierachies](https://docs.puppetlabs.com/hiera/1/hierarchy.html)
-* [Lookup Types](https://docs.puppetlabs.com/hiera/1/lookup_types.html)
-* [Writing Data Sources](https://docs.puppetlabs.com/hiera/1/data_sources.html)
-* [Interpolation Tokesn, Variables and Lookup Functions](https://docs.puppetlabs.com/hiera/1/variables.html)
-* [Usage with Puppet](https://docs.puppetlabs.com/hiera/1/puppet.html)
-* [Complete Example](https://docs.puppetlabs.com/hiera/1/complete_example.html)
-* [Usage on the Commandline](https://docs.puppetlabs.com/hiera/1/command_line.html)
-* [Writing New Backends](https://docs.puppetlabs.com/hiera/1/custom_backends.html)
+* [Hiera 1: Overview](http://puppet.com/docs/hiera/latest/)
+* [Hiera 1: installation](http://puppet.com/docs/hiera/latest/installing.html)
+* [Configuration and hiera.yaml](https://puppet.com/docs/hiera/latest/configuring.html)
+* [Hierachies](https://puppet.com/docs/hiera/latest/hierarchy.html)
+* [Lookup Types](https://puppet.com/docs/hiera/latest/lookup_types.html)
+* [Writing Data Sources](https://puppet.com/docs/hiera/latest/data_sources.html)
+* [Interpolation Tokesn, Variables and Lookup Functions](https://puppet.com/docs/hiera/latest/variables.html)
+* [Usage with Puppet](https://puppet.com/docs/hiera/latest/puppet.html)
+* [Complete Example](https://puppet.com/docs/hiera/latest/complete_example.html)
+* [Usage on the Commandline](https://puppet.com/docs/hiera/latest/command_line.html)
+* [Writing New Backends](https://puppet.com/docs/hiera/latest/custom_backends.html)
 
 #### Describe the usage of MCollective
-* [Mcollective Collective](http://docs.puppetlabs.com/mcollective/)
-* [Using Mcollective Command Line Applications](http://docs.puppetlabs.com/mcollective/reference/basic/basic_cli_usage.html)
+* [Mcollective Collective](https://puppet.com/docs/mcollective/current/index.html)
+* [Using Mcollective Command Line Applications](https://puppet.com/docs/mcollective/current/reference/basic/basic_cli_usage.html)
 
 #### Demonstrate knowledge of Facter
-* [Facter 3.3](http://docs.puppetlabs.com/facter/3.3/)
-* [Core Facts](http://docs.puppetlabs.com/facter/3.3/core_facts.html)
-* [Custom Fact Overview/Reference](http://docs.puppetlabs.com/facter/3.3/fact_overview.html)
-* [Custom Fact Walkthrough](http://docs.puppetlabs.com/facter/3.3/custom_facts.html)
-* [External Facts](http://docs.puppetlabs.com/facter/3.3/custom_facts.html#external-facts)
+* [Facter latest](http://puppet.com/docs/facter/latest/)
+* [Core Facts](http://puppet.com/docs/facter/latest/core_facts.html)
+* [Custom Fact Overview/Reference](http://puppet.com/docs/facter/latest/fact_overview.html)
+* [Custom Fact Walkthrough](http://puppet.com/docs/facter/latest/custom_facts.html)
+* [External Facts](http://puppet.com/docs/facter/latest/custom_facts.html#external-facts)
 
 #### Describe the purpose of Code Manager
 
-* [Managing code with Code Manager](https://docs.puppet.com/pe/2016.2/code_mgr.html)
+* [Managing code with Code Manager](https://puppet.com/docs/pe/latest/code_mgr.html)
 
 ## Puppet Courses and Training
 
