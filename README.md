@@ -40,6 +40,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Language: Classes](https://puppet.com/docs/puppet/latest/lang_classes.html)
 * [Language: Defined Resource Types](https://puppet.com/docs/puppet/latest/lang_defined_types.html)
 
+
 ### Modules
 
 #### Describe how to use modules from the Forge
@@ -132,6 +133,7 @@ These are the exam objectives you review and understand in order to pass the tes
 * [Complete Example](https://puppet.com/docs/hiera/latest/complete_example.html)
 * [Usage on the Commandline](https://puppet.com/docs/hiera/latest/command_line.html)
 * [Writing New Backends](https://puppet.com/docs/hiera/latest/custom_backends.html)
+
 
 #### Describe the usage of MCollective
 * [Mcollective Collective](https://puppet.com/docs/mcollective/current/index.html)
