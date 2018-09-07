@@ -1,13 +1,13 @@
 
 # Puppet Professional Certification Resources
 
-Online resources that will help you prepare for taking the Puppet Professional 2016 Certification exam.
+Online resources that will help you prepare for taking the Puppet Professional Certification exam.
 
 ### NOTE: I am not active using Puppet right now, but I am happy to manage this page. If you have forked this repo and wish to make a pull request for the benefit of other people, please feel free to do so.
 
 ## Exam Objectives
 
-These are the exam objectives you review and understand in order to pass the test. The objectives are current as of September 9, 2016.
+These are the exam objectives you review and understand in order to pass the test. 
 
 ### Language
 
