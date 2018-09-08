@@ -3,7 +3,7 @@
 
 Online resources that will help you prepare for taking the Puppet Professional Certification exam.
 
-### NOTE: I am not active using Puppet right now, but I am happy to manage this page. If you have forked this repo and wish to make a pull request for the benefit of other people, please feel free to do so.
+### NOTE: I am not actively using Puppet right now, but I am happy to manage this page. If you have forked this repo and wish to make a pull request for the benefit of other people, please feel free to do so.
 
 ## Exam Objectives
 
